@@ -1,0 +1,8 @@
+This a port of PHGraph http://www.mpkju.fr/~graphview/ by Pierre-Henri Jondot for use on the iPhone.
+
+Add the files to your iPhone application
+Add an import #import "PHGraphView.h"
+Create a view based on the PHGraphView
+Add data, axis, etc...
+
+See these examples for usage: http://www.mpkju.fr/~graphview/page1/page1.html
